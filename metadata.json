@@ -1,0 +1,10 @@
+{
+  "name": "IELTSprep - Free Online IELTS Mock Exam",
+  "description": "100% free full-length computer-delivered IELTS mock exams for students and English learners with realistic test interface, instant band score calculation, and diagnostic evaluation.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
